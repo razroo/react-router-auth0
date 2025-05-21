@@ -1,5 +1,5 @@
 {
-  "name": "react-router-auth0",
+  "name": "@razroo/react-router-auth0",
   "version": "1.0.0",
   "description": "ReactRouterAuth0",
   "main": "./lib/cjs/index.js",
