@@ -17,3 +17,4 @@ Reach out to me at [x.com/razroo_chief](https://x.com/razroo_chief) or email me 
 ```
 npm install @razroo/react-router-auth0 --save
 ```
+### Usage
