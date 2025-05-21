@@ -1,10 +1,13 @@
-# Razroo NPM Starter
+# React Router Auth0
 
-## How To Use Repo As A Playground
+A TypeScript library for integrating Auth0 authentication with React Router applications.
 
-`
-npm install;
-npm install ts-node -g
-ts-node <path-to-file>
-`
+## Features
 
+- Auth0 authentication integration
+- Session management
+- Token handling and caching
+- User profile management
+- Secure routing
+
+## Installation
