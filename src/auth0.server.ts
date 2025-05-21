@@ -1,6 +1,6 @@
 import axios from 'axios';
 import dotenv from 'dotenv';
-import type { TokenInfo, User } from '../types/User';
+import type { TokenInfo, User } from './types/User';
 import { commitSession, getSession } from './sessions.server';
 import { environment } from '~/config/environment';
 
